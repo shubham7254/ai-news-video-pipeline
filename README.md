@@ -38,7 +38,7 @@ An autonomous multi-agent system that scrapes trending AI news, summarizes it, g
 ├── requirements.txt
 └── Dockerfile # (Optional) for containerized execution ```
 
-
+---
 
 ## 🚀 Getting Started
 
