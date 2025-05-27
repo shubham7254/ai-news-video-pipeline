@@ -56,5 +56,10 @@ source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+## 🔐 Secrets (.env)
+To run the pipeline, create a `.env` file in the root directory and add:
+GROQ_API_KEY=your-api-key-here
+You can get a key from: https://console.groq.com/keys
+
 # Run the pipeline
 python main.py
