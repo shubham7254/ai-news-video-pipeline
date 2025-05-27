@@ -38,3 +38,22 @@ ai-news-video-pipeline/
 ├── main.py # Main entry point
 ├── requirements.txt
 └── Dockerfile # (Optional) for containerized execution
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/shubham7254/ai-news-video-pipeline.git
+cd ai-news-video-pipeline
+
+# Create a virtual environment (optional but recommended)
+python3 -m venv .venv
+source .venv/bin/activate   # On Windows: .venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the pipeline
+python main.py
