@@ -24,8 +24,7 @@ An autonomous multi-agent system that scrapes trending AI news, summarizes it, g
 ---
 
 ## 🧩 Project Structure
-'''
-ai-news-video-pipeline/
+``` ai-news-video-pipeline/
 ├── agents/ # All agent classes
 ├── data/
 │ ├── audio/ # TTS audio files
@@ -37,8 +36,10 @@ ai-news-video-pipeline/
 ├── tests/ # Unit tests
 ├── main.py # Main entry point
 ├── requirements.txt
-└── Dockerfile # (Optional) for containerized execution
-'''
+└── Dockerfile # (Optional) for containerized execution ```
+
+
+
 ## 🚀 Getting Started
 
 To run this project locally:
