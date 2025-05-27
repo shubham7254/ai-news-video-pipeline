@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Report: TuSimple sent sensitive self-driving data to China after US national security agreement",
+    "url": "https://techcrunch.com/2025/05/27/report-tusimple-sent-sensitive-self-driving-data-to-china-after-us-national-security-agreement/",
+    "summary": " TuSimple (now CreateAI) sent a trove of sensitive data \u2013 effectively the blueprint of an American-made autonomous vehicle system \u2013 to a Beijing-owned firm after committing to the U.S. government that it would cease such transfers under a national security agreement . The data sharing continued up until TuSimple\u2019s deadline to comply with the agreement six months later . A subsequent investigation found the data sharing didn\u2019t technically violate the agreement, though TuSimple was fined for other",
+    "audio_path": "data/audio/voice_1.mp3",
+    "text_path": "data/audio/text_1.txt",
+    "video_path": "data/videos/video_1.mp4",
+    "uploaded": true,
+    "youtube_id": "yiuL3OGdOo4"
+  },
+  {
+    "title": "Salesforce acquires Informatica for $8 billion",
+    "url": "https://techcrunch.com/2025/05/27/salesforce-acquires-informatica-for-8-billion/",
+    "summary": " Salesforce has acquired cloud data management firm Informatica in an $8 billion equity deal . The deal is a major move in Salesforce's push to strengthen its AI and data infrastructure capabilities . In September, Salesforce snapped up Own Company for $1.9 billion in cash .",
+    "audio_path": "data/audio/voice_2.mp3",
+    "text_path": "data/audio/text_2.txt",
+    "video_path": "data/videos/video_2.mp4",
+    "uploaded": true,
+    "youtube_id": "K64BLe4vLcE"
+  }
+]
